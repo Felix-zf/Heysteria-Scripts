@@ -22,7 +22,7 @@ Official Script
 bash <(curl -fsSL https://get.hy2.sh/)
 ```
 
-Modify
+📦 Modify
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/Felix-zf/Hysteria-Scripts/main/hysteria.sh)
 ```
