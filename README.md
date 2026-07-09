@@ -175,15 +175,15 @@ systemctl status hysteria-server.service
     {
       "type": "hysteria2",
       "tag": "proxy",
-      "server": "111.111.111.111", #Address
-      "server_port": 443, #Port
-      "up_mbps": 20, #Upspeed
-      "down_mbps": 50, #Downspeed
-      "password": "123456", #Password
+      "server": "111.111.111.111", # Address
+      "server_port": 443, # Port
+      "up_mbps": 20, # Upspeed
+      "down_mbps": 50, # Downspeed
+      "password": "123456", # Password
       "tls": {
         "enabled": true,
-        "server_name": "your.domain.net", #Domain
-        "insecure": false #Self-signed Certificate
+        "server_name": "your.domain.net", # Domain
+        "insecure": false # Self-signed Certificate
       }
     },
     {
