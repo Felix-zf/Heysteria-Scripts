@@ -175,15 +175,15 @@ systemctl status hysteria-server.service
     {
       "type": "hysteria2",
       "tag": "proxy",
-      "server": "111.111.111.111", #服务器地址
-      "server_port": 443, #服务器端口
-      "up_mbps": 20, #最大上传速率
-      "down_mbps": 50, #最大下载速率
-      "password": "123456", #密码和服务端一致
+      "server": "111.111.111.111", #Address
+      "server_port": 443, #Port
+      "up_mbps": 20, #Upspeed
+      "down_mbps": 50, #Downspeed
+      "password": "123456", #Password
       "tls": {
         "enabled": true,
-        "server_name": "your.domain.net", #没有域名的填伪装网址
-        "insecure": false #使用自签证书需要改成true
+        "server_name": "your.domain.net", #Domain
+        "insecure": false #Self-signed Certificate
       }
     },
     {
