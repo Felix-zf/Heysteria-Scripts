@@ -27,9 +27,9 @@ bash <(curl -fsSL https://get.hy2.sh/)
 bash <(curl -fsSL https://raw.githubusercontent.com/Felix-zf/Hysteria-Scripts/main/hysteria.sh)
 ```
 
-📦 Modify 2 (Add Obfs)
+📦 Modify 2 (Added Obfs)
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/Felix-zf/Hysteria-Scripts/main/hysteria.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Felix-zf/Hysteria-Scripts/main/hysteria2.sh)
 ```
 
 ## SSL证书申请
